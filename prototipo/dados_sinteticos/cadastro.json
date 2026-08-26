@@ -1,0 +1,5 @@
+[
+  {"id": "CLI-001", "nome": "Maria Aparecida Souza Ficticia", "endereco": "Rua Exemplo Um, 100 - Bairro Demo"},
+  {"id": "CLI-002", "nome": "Joao Carlos Teste da Silva", "endereco": "Avenida Sintetica, 2000 - Centro Demo"},
+  {"id": "CLI-003", "nome": "Ana Beatriz Demo Pereira", "endereco": "Travessa Ficticia, 33 - Vila Exemplo"}
+]

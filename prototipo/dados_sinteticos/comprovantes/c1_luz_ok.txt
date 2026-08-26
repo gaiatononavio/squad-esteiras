@@ -1,0 +1,7 @@
+=== DOCUMENTO SINTETICO DE BANCADA - NAO E DOCUMENTO REAL ===
+LUZBRAS DISTRIBUIDORA FICTICIA
+FATURA DE ENERGIA ELETRICA
+TITULAR: Maria Aparecida Souza Ficticia
+ENDERECO: Rua Exemplo Um, 100 - Bairro Demo
+EMISSAO: 2026-07-15
+Consumo do mes: 231 kWh (valores ilustrativos)
