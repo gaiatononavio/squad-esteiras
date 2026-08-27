@@ -2,16 +2,22 @@ Copyright (c) 2026 Daniel Corral
 
 Este repositório e todo o seu conteúdo — skill, cartas de papel, templates,
 exemplos executados, protótipo de código e demais artefatos — é disponibilizado
-para leitura, estudo e avaliação livres.
+para leitura, estudo e exploração livres.
+
+A linha que separa o que é livre do que exige autorização não é "em que
+máquina" nem "sozinho ou em equipe" — é se o resultado chega a valer para
+alguma decisão real.
 
 É permitido, sem necessidade de autorização:
-- Ler, clonar e executar este material para avaliação pessoal ou demonstração.
-- Adaptar trechos para estudo pessoal, sem redistribuição pública.
+- Ler, clonar, executar e adaptar este material para aprender como funciona,
+  testar sua mecânica, ou demonstrar o conceito a terceiros — inclusive
+  simulando casos hipotéticos ou fictícios inspirados em contextos reais.
 
 Requer autorização prévia e por escrito do autor:
-- Usar, adaptar, implantar ou incorporar este material — no todo ou em parte —
-  em produtos, serviços, processos ou sistemas de qualquer organização,
-  comercial ou não.
+- Usar este material — no todo ou em parte — de um jeito cujo resultado
+  informe ou produza efeito sobre uma decisão, processo, produto ou sistema
+  reais de qualquer organização, comercial ou não, mesmo que o uso seja
+  individual, informal ou não sancionado oficialmente por essa organização.
 - Redistribuir publicamente este material, no todo ou em parte, fora deste
   repositório.
 
