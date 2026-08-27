@@ -73,4 +73,4 @@ A skill foi escrita para um ambiente Claude com suporte a skills e subagentes (C
 Adaptação, para o domínio de esteiras de dados, do método de organizações virtuais das skills `criar-estudio-simples`/`criar-estudio-robusto` do autor — arquitetura exercitada em organizações que deliberam sobre trabalho, nenhuma delas operando ato sobre cliente real sob volume. O que a skill transfere é o aparato de governança da deliberação; que isso acelere uma esteira real é hipótese a testar, não resultado. Os demais limites estão declarados no fim do `SKILL.md`.
 
 ---
-*Daniel Corral · agosto/2026 · [licença MIT](LICENSE)*
+*Daniel Corral · agosto/2026 · [termos de uso](LICENSE)*
